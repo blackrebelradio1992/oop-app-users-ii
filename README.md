@@ -2,7 +2,7 @@
 
 Wow!  Literally overnight, your \<INSERT APPLICATION NAME\> app has really taken off!  You decide to add a new feature to your app: posts.
 
-In order to gain this new functionality, you'll have to modify your [original](https://github.com/ptbravoplatoon/app-users) `User` class.
+In order to gain this new functionality, you'll have to modify your original `User` class.
 
 ## Requirements
 1. Add a method to your `User` class that allows for creating a new user post.
